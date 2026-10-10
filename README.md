@@ -9,6 +9,10 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## Acessibilidade e tema
+
+A interface oferece navegação por teclado com foco visível, textos com contraste reforçado, rótulos descritivos para os campos e alternativas textuais para os gráficos. Use o botão na barra lateral para alternar entre os temas claro e escuro; a escolha vale durante a sessão atual.
+
 ## Publicar gratuitamente
 
 O caminho mais direto e o [Streamlit Community Cloud](https://streamlit.io/cloud). Para este fluxo gratuito, o codigo precisa estar em um repositorio GitHub publico, e o app publicado tambem ficara acessivel publicamente.
